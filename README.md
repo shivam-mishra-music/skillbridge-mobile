@@ -1,6 +1,6 @@
 # SkillBridge
 
-A mobile app that helps students find teammates for projects and hackathons, and exchange skills with each other.
+A mobile app that helps students collaborate, find teammates for projects and hackathons, and exchange skills with each other.
 
 **Tech stack:** React Native (Expo) · JavaScript · React Navigation · Supabase (PostgreSQL + Auth)
 
